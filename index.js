@@ -14,4 +14,4 @@ APP.get('/', (req, res) => {
   res.render('home');
 });
 
-APP.listen(8000;
+APP.listen(8000);
